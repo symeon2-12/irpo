@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/irpo/static/css/main.e3a102f8.css",
+    "main.js": "/irpo/static/js/main.f5d2928d.js",
+    "index.html": "/irpo/index.html",
+    "main.e3a102f8.css.map": "/irpo/static/css/main.e3a102f8.css.map",
+    "main.f5d2928d.js.map": "/irpo/static/js/main.f5d2928d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a102f8.css",
+    "static/js/main.f5d2928d.js"
+  ]
+}
