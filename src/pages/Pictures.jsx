@@ -130,7 +130,7 @@ const Pictures = () => {
           <p>picture status</p>
         </div>
         <div className="image">
-          <img src={"/assets/" + picsrc} alt="picture" />
+          <img src={"/irpo/assets/" + picsrc} alt="picture" />
         </div>
         <div className="picturefooter">
           <div className="picturefooter_left">
