@@ -143,6 +143,7 @@ img {
 .livestream:hover {
   background-color: white;
   color: black;
+  cursor: pointer;
 }
 
 .picturefooter_right {
@@ -161,4 +162,5 @@ img {
   color: #9a8abe;
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 50%;
+  cursor: pointer;
 }
