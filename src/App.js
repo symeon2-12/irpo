@@ -1,11 +1,19 @@
 import "./App.css";
-import { Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Pictures from "./pages/Pictures";
+import Setup from "./pages/Setup";
+import Missing from "./pages/Missing";
 
 function App() {
   return (
     <div className="App">
-      <Pictures />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Pictures />} />
+          <Route path="/setup" element={<Setup />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
