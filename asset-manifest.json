@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/irpo/static/css/main.c900e19d.css",
-    "main.js": "/irpo/static/js/main.8690b520.js",
+    "main.js": "/irpo/static/js/main.2b8430b8.js",
     "index.html": "/irpo/index.html",
     "main.c900e19d.css.map": "/irpo/static/css/main.c900e19d.css.map",
-    "main.8690b520.js.map": "/irpo/static/js/main.8690b520.js.map"
+    "main.2b8430b8.js.map": "/irpo/static/js/main.2b8430b8.js.map"
   },
   "entrypoints": [
     "static/css/main.c900e19d.css",
-    "static/js/main.8690b520.js"
+    "static/js/main.2b8430b8.js"
   ]
 }
