@@ -7,7 +7,7 @@ const Setup = () => {
   return (
     <div>
       Setup
-      <button onClick={() => navigate("/")}>Pictures</button>
+      <button onClick={() => navigate("/irpo")}>Pictures</button>
     </div>
   );
 };

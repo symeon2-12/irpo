@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route path="/irpo" element={<Pictures />} />
           <Route path="/irpo/setup" element={<Setup />} />
-          <Route path="*" element={<Navigate to="/irpo" replace />} />
+          <Route path="/irpo/*" element={<Navigate to="/irpo" replace />} />
         </Routes>
       </BrowserRouter>
     </div>
