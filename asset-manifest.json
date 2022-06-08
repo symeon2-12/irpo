@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/irpo/static/css/main.2fb70357.css",
-    "main.js": "/irpo/static/js/main.91c30241.js",
+    "main.css": "/irpo/static/css/main.c900e19d.css",
+    "main.js": "/irpo/static/js/main.64d0ae66.js",
     "index.html": "/irpo/index.html",
-    "main.2fb70357.css.map": "/irpo/static/css/main.2fb70357.css.map",
-    "main.91c30241.js.map": "/irpo/static/js/main.91c30241.js.map"
+    "main.c900e19d.css.map": "/irpo/static/css/main.c900e19d.css.map",
+    "main.64d0ae66.js.map": "/irpo/static/js/main.64d0ae66.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fb70357.css",
-    "static/js/main.91c30241.js"
+    "static/css/main.c900e19d.css",
+    "static/js/main.64d0ae66.js"
   ]
 }
