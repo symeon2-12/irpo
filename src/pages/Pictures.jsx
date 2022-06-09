@@ -189,7 +189,7 @@ const Pictures = () => {
           <div className="picturefooter_right">
             <button
               className="settingsbutton"
-              onClick={() => navigate("/setup")}>
+              onClick={() => navigate("/irpo/setup")}>
               <FiSettings className="settings" size={35} />
             </button>
           </div>
