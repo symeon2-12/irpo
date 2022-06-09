@@ -16,7 +16,6 @@
     "react-dom": "^18.1.0",
     "react-icons": "^4.4.0",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -47,6 +46,8 @@
   },
   "homepage": "https://symeon2-12.github.io/irpo",
   "devDependencies": {
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "react-scripts": "5.0.1",
+    "nth-check": ">=2.0.1"
   }
 }
